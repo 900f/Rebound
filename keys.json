@@ -1,17 +1,10 @@
 {
-  "keys": {
-    "KAHU-HXO1-9NX5-NU8A": { "type": "permanent" },
-    "KUOQ-ZG3K-2M9P-4Q1L": { "type": "permanent" },
-
-    "REBD-J4K9-M2N7-X8P5": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-F6H2-L9Q3-T5R8": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-V1B5-N8M3-C6X9": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-P7G4-R2T9-K5Y1": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-A3D8-E5F1-H9J6": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-Z9W2-U4I7-O1P5": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-M6N3-B8V5-C2X9": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-Q1W4-E7R9-T2Y6": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-L5K8-J3H6-G9F2": { "type": "monthly", "expiry": "2026-01-01" },
-    "REBD-X8C5-V1B4-N7M2": { "type": "monthly", "expiry": "2026-01-01" }
-  }
+  "permanent": [
+    "KAHU-HXO1-9NX5-NU8A",
+    "RBND-4K9M-X7PQ-2V8T"
+  ],
+  "monthly": {
+    "REBOUND-TEST-1234-5678": "2026-12-31"
+  },
+  "used": {}
 }
